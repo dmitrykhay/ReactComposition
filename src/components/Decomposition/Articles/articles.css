@@ -1,0 +1,31 @@
+.item-link {
+	display: flex;
+	align-items: center;
+}
+
+.item-icon {
+	width: 16px;
+	height: 16px;
+}
+
+.item{
+	margin-right: 0;
+	color: black;
+}
+
+.description {
+	color: darkgrey;
+}
+
+.articles {
+	display: flex;
+  flex-wrap: wrap;
+}
+
+.article-container {
+	margin: 20px;
+}
+
+.item-link p {
+	margin: 0 0 0 5px;
+}

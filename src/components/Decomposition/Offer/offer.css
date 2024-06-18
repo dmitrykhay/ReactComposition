@@ -1,0 +1,9 @@
+.offer-container {
+	margin-left: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.offer-image {
+	width: 100px;
+}

@@ -1,0 +1,19 @@
+.search-container {
+	display: flex;
+}
+
+.search-header {
+	display: flex;
+}
+
+.search-item {
+	margin-right: 10px;
+}
+
+.logo {
+	width: 200px;
+}
+
+.search-input {
+	width: 600px;
+}
